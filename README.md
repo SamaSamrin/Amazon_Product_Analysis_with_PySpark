@@ -23,7 +23,7 @@ Our project includes the Volume aspect of big data since our dataset is huge in 
 ### Variety
 We have ensured variety in our project since we have used different data formats, structures and sources.
 ### Value
-This project provides value since it shows the underlying patterns 
+This project provides value since it shows the underlying patterns between the numerical features, for instance showing the average user rating for a product.
 ### Visualization
 We have demonstrated the quality and interrelations of the data through visualizations such as boxplot.
 ### Variability
